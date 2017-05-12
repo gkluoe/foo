@@ -1,6 +1,14 @@
 2017-05-12  SVN: new release
 
-	* Release: 0.0.2
+	* Release: 0.0.3
+
+2017-05-12 11:14  gkluoe
+
+	* foo: Test adding a file
+
+2017-05-12 11:09  gkluoe
+
+	* ChangeLog, lcfg.yml: foo release: 0.0.2
 
 2017-05-12 11:09  gkluoe
 
